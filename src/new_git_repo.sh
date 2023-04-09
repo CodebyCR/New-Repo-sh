@@ -1,10 +1,10 @@
 #!/bin/bash
 
-######################################
+#########################################
 # All rights reserved. 
 # Copyright © 2023 - Christoph Rohde
-# 
-######################################
+# https://github.com/CodebyCR/New-Repo-sh
+#########################################
 
 # ANSI Color
 indigo='\033[0;34m'
