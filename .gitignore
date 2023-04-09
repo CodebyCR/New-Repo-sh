@@ -1,14 +1,11 @@
-
 # JetBrains
 .idea
 *.iml
 *.iws
 *.ipr
 
-# vs code
+# VS Code
 .vscode
 
 # Mac OS
 .DS_Store
-
-
